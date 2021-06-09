@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+	background-color: bisque;
+}
+
+#replace {
+	color: darkred;
+	font-weight: bolder;
+}
+h2 {
+	color: rgb(104, 5, 99)
+}

@@ -1,0 +1,16 @@
+.heading, .practice {
+	text-align: center;
+}
+
+.list {
+	font-weight: bolder;
+}
+
+ body {
+
+	background-color: rgb(235, 209, 216);
+}
+
+h2 {
+	font-style: italic;
+}

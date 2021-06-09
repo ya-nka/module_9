@@ -1,0 +1,14 @@
+body {
+	background-color: bisque;
+	text-align: center;
+}
+button {
+	border-radius: 5px;
+	color: rgb(85, 10, 33);
+}
+p {
+	font-style: italic;
+}
+h2 {
+	color: rgb(104, 5, 99)
+}

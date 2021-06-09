@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+	background-color: beige;
+}
+
+p {
+	color: blueviolet;
+	font-style: oblique;
+}
+
+input {
+	background-color: aqua;
+	 border-radius: 5px; 
+	 font-weight: bold;
+}
+
+code {
+	font-weight: bolder;
+}
+h2 {
+	color: rgb(104, 5, 99)
+}
